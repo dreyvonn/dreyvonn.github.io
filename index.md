@@ -40,7 +40,7 @@
             <nav>  
                 <ul>  
                     <li>  
-                        <a href="#"> About Me </a>  
+                        <a href="#"> About Me and a half </a>  
                     </li>  
                     <li>  
                         <a href="#"> Resume </a>  
