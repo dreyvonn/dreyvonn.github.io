@@ -13,7 +13,7 @@
                 font-family: sans-serif;  
             }  
             header {  
-                background-color: orange;  
+                background-color: #dddddd;  
                 position: fixed;  
                 left: 0;  
                 right: 0;  
@@ -30,7 +30,7 @@
                 margin: 20px;  
             }  
             header li a {  
-                color: blue;  
+                color: white;  
                 text-decoration: none;  
             }  
         </style>
@@ -40,19 +40,13 @@
             <nav>  
                 <ul>  
                     <li>  
-                        <a href="#"> Home </a>  
+                        <a href="#"> About Me </a>  
                     </li>  
                     <li>  
-                        <a href="#"> About </a>  
+                        <a href="#"> Resume </a>  
                     </li>  
                     <li>  
-                        <a href="#"> Contact </a>  
-                    </li>  
-                    <li> 
-                        <a href="#"> Terms of use </a>  
-                    </li>  
-                    <li>  
-                        <a href="#"> Join Us </a>  
+                        <a href="#"> Projects </a>  
                     </li>  
                 </ul>  
             </nav>  
