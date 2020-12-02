@@ -1,25 +1,62 @@
-<Body>   
-    <nav>  
-        <ul>  
-            <li>  
-                <a href="#"> Home </a>  
-            </li>  
-            <li>  
-                <a href="#"> About </a>  
-            </li>  
-            <li>  
-                <a href="#"> Contact </a>  
-            </li>  
-            <li> 
-                <a href="#"> Terms of use </a>  
-            </li>  
-            <li>  
-                <a href="#"> Join Us </a>  
-            </li>  
-        </ul>  
-    </nav>  
-
-    <h1>This is a sweet sweet test</h1>
-</Body>   
-
-<h1> this is another test </h1>
+<html>
+    <head>
+        <title>
+            Just some title
+        </title>
+        <style>
+            body   
+            {  
+                height: 125vh;  
+                margin-top: 80px;  
+                padding: 30px;  
+                background-size: cover;  
+                font-family: sans-serif;  
+            }  
+            header {  
+                background-color: orange;  
+                position: fixed;  
+                left: 0;  
+                right: 0;  
+                top: 5px;  
+                height: 30px;  
+                display: flex;  
+                align-items: center;  
+                box-shadow: 0 0 25px 0 black;  
+            }  
+            header * {  
+                display: inline;  
+            }  
+            header li {  
+                margin: 20px;  
+            }  
+            header li a {  
+                color: blue;  
+                text-decoration: none;  
+            }  
+        </style>
+    </head>
+    <body>   
+        <header>
+            <nav>  
+                <ul>  
+                    <li>  
+                        <a href="#"> Home </a>  
+                    </li>  
+                    <li>  
+                        <a href="#"> About </a>  
+                    </li>  
+                    <li>  
+                        <a href="#"> Contact </a>  
+                    </li>  
+                    <li> 
+                        <a href="#"> Terms of use </a>  
+                    </li>  
+                    <li>  
+                        <a href="#"> Join Us </a>  
+                    </li>  
+                </ul>  
+            </nav>  
+        </header>
+        <h1>This is a sweet sweet test</h1>
+    </body>   
+</html>
