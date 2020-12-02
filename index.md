@@ -13,7 +13,7 @@
                 font-family: sans-serif;  
             }  
             header {  
-                background-color: #dddddd;  
+                background-color: black;  
                 position: fixed;  
                 left: 0;  
                 right: 0;  
