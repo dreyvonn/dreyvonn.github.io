@@ -3,16 +3,16 @@
         <title>
             Just some title
         </title>
-<!--         <style>
-            body   
+        <style>
+<!--             body   
             {  
                 height: 125vh;  
                 margin-top: 80px;  
                 padding: 30px;  
                 background-size: cover;  
                 font-family: sans-serif;  
-            }  
-            header {  
+            }   -->
+<!--             header {  
                 background-color: black;  
                 position: fixed;  
                 left: 0;  
@@ -32,11 +32,11 @@
             header li a {  
                 color: white;  
                 text-decoration: none;  
-            }  
-        </style> -->
+            }   -->
+        </style>
     </head>
     <body>   
-<!--         <header>
+        <header>
             <nav>  
                 <ul>  
                     <li>  
@@ -50,7 +50,7 @@
                     </li>  
                 </ul>  
             </nav>  
-        </header> -->
+        </header>
         <h1>test</h1>
     </body>   
 </html>
