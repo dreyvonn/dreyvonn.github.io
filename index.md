@@ -36,7 +36,7 @@
         </style>
     </head>
     <body>   
-        <header>
+<!--         <header>
             <nav>  
                 <ul>  
                     <li>  
@@ -50,7 +50,7 @@
                     </li>  
                 </ul>  
             </nav>  
-        </header>
+        </header> -->
         <h1>This is a sweet sweet test</h1>
     </body>   
 </html>
