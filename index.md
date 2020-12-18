@@ -3,7 +3,7 @@
 <!--         <title>
             Just some title
         </title> -->
-<!--         <style>
+        <style>
             body   
             {  
                 height: 125vh;  
@@ -13,11 +13,11 @@
                 font-family: sans-serif;  
             }  
             header {  
-                background-color: black;  
+                background-color: #dddddd;  
                 position: fixed;  
                 left: 0;  
                 right: 0;  
-                top: 5px;  
+                top: 2px;  
                 height: 30px;  
                 display: flex;  
                 align-items: center;  
@@ -30,10 +30,10 @@
                 margin: 20px;  
             }  
             header li a {  
-                color: white;  
+                color: #111111;  
                 text-decoration: none;  
             }  
-        </style> -->
+        </style>
     </head>
     <body>   
         <header>
