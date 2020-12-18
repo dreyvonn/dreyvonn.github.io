@@ -3,7 +3,7 @@
         <title>
             Just some title
         </title>
-        <style>
+<!--         <style>
             body   
             {  
                 height: 125vh;  
@@ -33,7 +33,7 @@
                 color: white;  
                 text-decoration: none;  
             }  
-        </style>
+        </style> -->
     </head>
     <body>   
 <!--         <header>
