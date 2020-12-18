@@ -1,18 +1,18 @@
 <html>
     <head>
-        <title>
+<!--         <title>
             Just some title
-        </title>
-        <style>
-<!--             body   
+        </title> -->
+<!--         <style>
+            body   
             {  
                 height: 125vh;  
                 margin-top: 80px;  
                 padding: 30px;  
                 background-size: cover;  
                 font-family: sans-serif;  
-            }   -->
-<!--             header {  
+            }  
+            header {  
                 background-color: black;  
                 position: fixed;  
                 left: 0;  
@@ -32,8 +32,8 @@
             header li a {  
                 color: white;  
                 text-decoration: none;  
-            }   -->
-        </style>
+            }  
+        </style> -->
     </head>
     <body>   
         <header>
