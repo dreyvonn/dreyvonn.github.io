@@ -6,4 +6,6 @@
     </body>
     <h1>Projects</h1>
     <h1>Resume</h1>
+    <iframe src="./resume_2021.pdf" width="50%" height="500px">
+    </iframe>
 </html>
