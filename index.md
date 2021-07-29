@@ -6,6 +6,10 @@
     </body>
     <h1>Projects</h1>
     <a href="https://github.com/dreyvonn">Github</a>
+    <a href="https://github.com/dreyvonn/cse341-node">Node.js Projects</a>
+    <a href="https://github.com/dreyvonn/cse341-teamProject">Node.js Art Portfolio</a>
+    <a href="https://github.com/dreyvonn/Data-Structures">Data Structures Projects</a>
+    <a href="https://github.com/dreyvonn/cineman-app">Android App</a>
     <h1>Resume</h1>
     <iframe src="./resume_2021.pdf" width="100%" height="1100px">
     </iframe>
