@@ -1,8 +1,8 @@
-<!-- <html>
-    <head>
-<!--         <title>
+<html>
+    <!-- <head>
+        <title>
             Just some title
-        </title> -->
+        </title>
         <style>
             body   
             {  
@@ -52,5 +52,5 @@
             </nav>  
         </header>
         <h1>test</h1>
-    </body>   
-</html> -->
+    </body>    -->
+</html>
