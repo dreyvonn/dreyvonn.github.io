@@ -20,6 +20,9 @@
         <li>
             <a href="https://github.com/dreyvonn/cineman-app">Android App</a>
         </li>
+        <li>
+            <a href="https://github.com/dreyvonn/react-task">React Project</a>
+        </li>
     </ul>
     <h1>Resume</h1>
     <iframe src="./SE_resume_2021.pdf" width="100%" height="1100px">
